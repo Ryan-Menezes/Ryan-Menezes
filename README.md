@@ -19,7 +19,7 @@
   
 ## Atualmente Estudando
   
-<img align="center" alt="Ryan-Laravel" height="30" width="100" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img align="center" alt="Ryan-Laravel" height="30" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   
 ##
   
