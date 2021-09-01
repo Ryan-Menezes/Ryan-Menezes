@@ -12,9 +12,12 @@
   <img align="center" alt="Ryan-HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ryan-CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Ryan-JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Ryan-JQ" height="30" src="https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black">
   <img align="center" alt="Ryan-PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Ryan-MySql" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Ryan-CSharp" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Ryan-MySql" height="30" src="https://img.shields.io/badge/MySQL-4C7EFC?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Ryan-CSharp" height="30" src="https://img.shields.io/badge/C%23-8C1CFC?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Ryan-C" height="30" src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Ryan-GIT" height="30" src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white">
 </div>
   
 ## Atualmente Estudando
@@ -24,6 +27,6 @@
 ##
   
 <div> 
-  <a href="mailto:menezesryan1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:menezesryan1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-menezes-845080201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
