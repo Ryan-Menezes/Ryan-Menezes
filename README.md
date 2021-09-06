@@ -30,3 +30,7 @@
   <a href="mailto:menezesryan1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-menezes-845080201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+ ## Visitas
+  
+ ![Visitor Count](https://profile-counter.glitch.me/Ryan-Menezes/count.svg)
