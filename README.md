@@ -1,3 +1,5 @@
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 <h1 align="center">Welcome to Ryan profile!</h1>
 <!-- Social icons section -->
 <p align="center">
@@ -64,6 +66,9 @@
 </p><br/>
 
 ## 📊 Github stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-Menezes&show_icons=true&theme=tokyonight)
+[![Ryan-Menezes](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-Menezes&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/Ryan-Menezes/)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Ryan-Menezes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
