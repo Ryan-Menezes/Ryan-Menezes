@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ryan profile!</h1>
+<h1 align="center">Welcome to my profile!</h1>
 <!-- Social icons section -->
 <p align="center">
   <a href="mailto:menezesryan1010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FC361C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
